@@ -9,7 +9,7 @@
 
 **Internship Program:** Cyber Security Internship by Future Interns
 
-**Intern Name:** Kothamasu Sai Prasad
+**Intern Name:** Pelapudi Deepak
 
 **Task-1:** Vulnerability Assessment Report for a Live Website
 
